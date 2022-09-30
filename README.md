@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nischal.</h1>
 <h3 align="center">A passionate frontend web developer.</h3>
 
-- 📫 How to reach me **nischalbista0@gmailcom**
+📫 How to reach me **nischalbista0@gmailcom** <br>
 🔭 I’m currently working on my portfolio website<br>🌱 I’m currently learning NodeJS
 
 
