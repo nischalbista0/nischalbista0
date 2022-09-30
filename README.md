@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nischal.</h1>
 <h3 align="center">A passionate frontend web developer.</h3>
 
-📫 How to reach me **nischalbista0@gmailcom** <br>
 🔭 I’m currently working on my portfolio website<br>🌱 I’m currently learning NodeJS
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nischal-bista-399801217) 
