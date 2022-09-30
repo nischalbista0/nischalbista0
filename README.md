@@ -47,8 +47,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p align="center">
-<img src="https://github.com/nischalbista0/nischalbista0/blob/output/github-contribution-grid-snake.svg">
-</p>
-
 [![](https://visitcount.itsvg.in/api?id=nischalbista0&pretty=true)](https://github-visitor-counter-pro.vercel.app)
