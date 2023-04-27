@@ -25,6 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 #### Design/Visual Tools
+![Figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=yellow)
 
