@@ -13,12 +13,15 @@
 ## Tech Stack 💻
 #### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=2194F0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart&logoColor=007EC2)
 
-#### JS Framework/Library
+#### Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&logoColor=5BC2F0)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=Express.js&logoColor=5BC2F0)
 
 #### CSS Framework/Library
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
@@ -35,6 +38,7 @@
 
 #### Backend
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23000.svg?style=for-the-badge&logo=node.js&logoColor=6FA760)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
