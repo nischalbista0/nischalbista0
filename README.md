@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Nischal Bista </br> 
 </h1>
 <p align="center">🔭 I’m currently working on my portfolio website</p>
-<p align="center">🌱 I’m currently learning <img  align="center" src="https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink"></p>
+<p align="center">🌱 I’m currently learning <img  align="center" src="https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js&logoColor=white"></p>
 <p align="center">
 
 <div  align="center">
@@ -16,11 +16,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=2194F0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart&logoColor=007EC2)
 
 #### Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&logoColor=5BC2F0)
+![Next.js](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?style=for-the-badge&logo=gatsby)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=Express.js&logoColor=5BC2F0)
 
 #### CSS Framework/Library
@@ -30,7 +30,6 @@
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=yellow)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -43,6 +42,7 @@
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)
 
 ## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=nischalbista0&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
