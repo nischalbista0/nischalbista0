@@ -6,7 +6,6 @@
 
 <div  align="center">
 <h3>🌐 Socials :</h3>
-<a href="https://twitter.com/nischalBista_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/nischal-bista-399801217/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 </div>
 
